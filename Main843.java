@@ -16,7 +16,6 @@ import javax.print.attribute.IntegerSyntax;
 
 /**
  * @Judge_ID: 843 "Crypt Kicker"
- * @author Hou Kot (coding strife)
  * 
  */
 class Main843 {
