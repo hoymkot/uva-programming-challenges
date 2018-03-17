@@ -1,4 +1,4 @@
-package backlog;
+package backlog.solved;
 
 /* @JUDGE_ID 30411 10267 JAVA */
 /* @BEGIN_OF_SOURCE_CODE */

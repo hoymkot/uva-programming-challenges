@@ -1,4 +1,4 @@
-package backlog;
+package backlog.solved;
 
 // @JUDGE_ID:  1000AA  100  Java  "Easy algorithm"
 

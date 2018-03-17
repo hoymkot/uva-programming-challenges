@@ -1,4 +1,4 @@
-package backlog;
+package backlog.solved;
 
 import java.io.BufferedReader;
 import java.io.IOException;

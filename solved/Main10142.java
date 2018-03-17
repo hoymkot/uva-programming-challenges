@@ -1,4 +1,4 @@
-package backlog;
+package backlog.solved;
 
 // UVA online judge code sample
 
